@@ -1,5 +1,5 @@
 # Convert-to-GPencil
-A basic Python script for Blender to assist converting a video to Grease Pencil images
+A basic Python script for Blender to assist converting a video to Grease Pencil images, this is an alternative to the "Sequence" option of the Blender Conversion option, it allows you to manipulate each Grease Pencil object at each frame separately. 
 
 This script needs to be run manually
 
